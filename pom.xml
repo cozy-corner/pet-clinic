@@ -71,7 +71,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/cozy-corner/pet-clinic</developerConnection>
+<!--        <developerConnection>scm:git:git@github.com:cozy-corner/pet-clinic.git</developerConnection>-->
+        <developerConnection>scm:git:https://github.com/cozy-corner/pet-clinic.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
