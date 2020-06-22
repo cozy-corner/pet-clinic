@@ -1,4 +1,4 @@
-package petclinic.mode;
+package guru.springframework.petclinic.mode;
 
 import java.time.LocalDate;
 
